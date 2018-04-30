@@ -8,7 +8,7 @@
 
 ## Representative Publications
 * Accurate estimation of interface phase diagram from STM images  
-    K. Takeuchi, R. Tanaka and K. Yuge, 
+    K. Takeuchi, K. Yuge, S. Tabata, H. Saito, S. Kurokawa and A. Sakai, accepted
     [arxiv](https://arxiv.org/abs/1707.07997)
 * New Wang-Landau approach to obtain phase diagrams for multicomponent alloys  
     K. Takeuchi, R. Tanaka and K. Yuge, Phys. Rev. B 96, 144202 (2017). 
